@@ -11,6 +11,15 @@ The London Pollution Analysis Dashboard is an interactive business intelligence 
 
 • Visualization Libraries: Power BI visualization options
 # Screenshots:
+![image](https://github.com/user-attachments/assets/c1c94b0c-6036-4da1-b4c0-c3a550fc98bb)
+![image](https://github.com/user-attachments/assets/2fae40da-0412-48a6-8afb-9eee14294fd7)
+![image](https://github.com/user-attachments/assets/2b822439-7b8b-417b-9d1d-4a3097b2292d)
+![image](https://github.com/user-attachments/assets/3850fcb4-32f1-467d-b39a-5af40a57d1ca)
+
+
+
+
+
 
 # Features:
 • Interactive Visualizations: Users can interact with charts to filter data by area and pollutant type.
