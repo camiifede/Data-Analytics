@@ -1,5 +1,5 @@
 # Data-Analytics
-London Pollution Analysis Dashboard
+London Pollution Analysis Dashboard in PowerBi
 # Project Description:
 The London Pollution Analysis Dashboard is an interactive business intelligence tool designed to visualize and analyze pollution levels across different areas of London. This project addresses the growing concern of air quality and public health by providing insights into toxic elements such as carbon monoxide (CO) and carbon dioxide (CO2). By identifying areas with the highest pollution levels, the dashboard aims to inform policymakers and the public, enabling more effective environmental strategies and health interventions.
 # Tech Stack:
