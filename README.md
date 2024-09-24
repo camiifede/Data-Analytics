@@ -18,6 +18,8 @@ The London Pollution Analysis Dashboard is an interactive business intelligence 
 ![image](https://github.com/user-attachments/assets/0242a281-46bb-4c57-a0e0-758882e3ac6f)
 ![image](https://github.com/user-attachments/assets/199cb625-3186-4552-b78f-41b4c84667da)
 ![image](https://github.com/user-attachments/assets/8fc09843-1edd-4cf9-a088-3b1a3e846acb)
+![image](https://github.com/user-attachments/assets/e935093a-125c-4916-9b98-0409275771a0)
+
 
 
 
